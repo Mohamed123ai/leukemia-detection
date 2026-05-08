@@ -1,0 +1,6 @@
+leukemia-detection/
+├── leukemia_model.h5        ← the trained model
+├── train.py                 ← train code
+├── predict.py               ← prediction code
+├── requirements.txt         ← required libraries
+└── README.md                ← project describution

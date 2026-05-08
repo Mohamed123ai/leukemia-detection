@@ -1,0 +1,10 @@
+dataset/
+  train/
+    healthy/
+    leukemia/
+  val/
+    healthy/
+    leukemia/
+  test/
+    healthy/
+    leukemia/
